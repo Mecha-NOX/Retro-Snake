@@ -39,7 +39,7 @@ Simple keyboard controls for directing the snake in four directions.
 
 ## **Screenshots / GIFs**
 
-![Snake1](https://github.com/Mecha-NOX/Countdown-Carnage/blob/b78451a59a67d9caf7e22beff407e0be5d344b78/GIFs/Countdown-Carnage_First.gif)
+![Snake1](https://github.com/Mecha-NOX/Retro-Snake/blob/663ab2263246895ecd7f65ceec0b50888b4c4c1c/GIFs/Retro-Snake_HighRes.gif)
 
 ---
 
