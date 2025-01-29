@@ -1,4 +1,4 @@
-# **Dapper Dasher**
+# **Snake**
 
 *Classic Arcade Gameplay | Developed in Raylib C++*
 
